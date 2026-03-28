@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5e6d3;
+  font-family: 'Georgia', serif;
+  color: #3b2314;
+}
+
+.app {
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 40px;
+  background-color: #fff8f2;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(59, 35, 20, 0.15);
+}
+
+.app h1 {
+  font-size: 2rem;
+  margin-bottom: 12px;
+  color: #6f3d1e;
+}
+
+.app p {
+  font-size: 1rem;
+  color: #7a5c47;
+  margin-bottom: 24px;
+}

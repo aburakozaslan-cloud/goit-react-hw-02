@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    gap: 12px;
+    margin: 25px 0;
+}
+
+.btn {
+    padding: 10px 22px;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background-color: #fff;
+    color: #5d4037;
+  
+}
+
+.btn:hover {
+    filter: brightness(0.95);
+}
+
+.btnGood {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border-color: #c8e6c9;
+}
+
+.btnNeutral {
+    background-color: #fff3e0;
+    color: #ef6c00;
+    border-color: #ffe0b2;
+}
+
+.btnBad {
+    background-color: #ffebee;
+    color: #c62828;
+    border-color: #ffcdd2;
+}
+
+.btnReset {
+    background-color: #efebe9;
+    color: #5d4037;
+    border-color: #d7ccc8;
+    margin-left: 10px;
+}

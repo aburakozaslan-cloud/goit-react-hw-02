@@ -1,0 +1,35 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.statLine {
+    font-size: 1.1rem;
+    color: #5d4037;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.label {
+    font-weight: 500;
+    min-width: 80px;
+    display: inline-block;
+}
+
+.value {
+    font-weight: 700;
+    color: #8b5e3c;
+    margin-left: 8px;
+}
+
+.positive {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #e0d5cc;
+    color: #2e7d32;
+    font-weight: bold;
+}
