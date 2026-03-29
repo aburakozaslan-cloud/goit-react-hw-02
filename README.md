@@ -27,7 +27,7 @@ Each component is located in its own folder within src/components/, containing a
 Clone the repository / Depoyu klonlayın:
 
 Bash
-git clone https://github.com/your-username/goit-react-hw-02.git
+git clone https://github.com/aburakozaslan-cloud/goit-react-hw-02.git
 Install dependencies / Bağımlılıkları yükleyin:
 
 Bash
